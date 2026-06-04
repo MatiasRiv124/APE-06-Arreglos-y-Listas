@@ -1,17 +1,13 @@
 # APE-06-Arreglos-y-Listas
 
-# Ejercicios – ArrayList, LinkedList y Arreglos
-**Universidad Técnica de Ambato** | Algoritmos y Lógica de Programación
+# Ejercicios-ArrayList-LinkedList-Arreglos
 
-Ejercicios prácticos en Java y C++ sobre manejo de listas dinámicas y arreglos. Se implementan operaciones de registro, búsqueda, eliminación y simulación de colas usando ArrayList, LinkedList y vector.
+Ejercicios prácticos de estructuras de datos dinámicas desarrollados en Java y C++, aplicando ArrayList, LinkedList y arreglos. Se practican operaciones de registro, búsqueda, eliminación y simulación de colas FIFO.
 
-## Contenido
-10 ejercicios desarrollados en ambos lenguajes, organizados en las carpetas `/java` y `/cpp`.
+## Descripción del Proyecto
 
-## Requisitos
-- Java JDK 8+
-- g++ (C++)
+Sistema de ejercicios progresivos sobre manejo de listas dinámicas en Java y C++, aplicando estructuras como ArrayList, vector, LinkedList y list. Cada ejercicio refuerza conceptos de almacenamiento dinámico, recorrido de listas, comparación de estructuras y gestión de datos con menús interactivos.
 
-## Ejecutar
-**Java:** `javac Ejercicio1.java` → `java Ejercicio1`  
-**C++:** `g++ ejercicio1.cpp -o ejercicio1` → `./ejercicio1`
+## Funcionalidades
+
+Registro y visualización de datos en listas dinámicas. Operaciones CRUD completas sobre ArrayList y vector. Comparación práctica entre arreglos de tamaño fijo y listas dinámicas. Simulación de colas de atención con LinkedList usando estructura FIFO. Implementación paralela en Java y C++ para cada ejercicio.
